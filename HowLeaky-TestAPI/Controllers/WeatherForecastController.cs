@@ -16,7 +16,7 @@ namespace HowLeaky_TestAPI.Controllers
         private static readonly string[] Summaries = new[]
         {
 
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "ORIG1", "ORIG2", "ORIG3", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
 
         };
 
